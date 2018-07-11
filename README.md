@@ -33,7 +33,7 @@ To deploy run
 and commit/push changes in the submodule. 
 
 Notes for version 2.0.9
-------------------------
+-------------------------
 
 Before TRIOS 2.1 library versions were not specified in requirements.txt and 
 setup.py. This lead to inconsistencies when loading operators saved with different
